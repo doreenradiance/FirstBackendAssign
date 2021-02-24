@@ -1,0 +1,18 @@
+{
+  "name": "FirstBackendAssign",
+  "version": "1.0.0",
+  "description": "first node server installation",
+  "main": "index.js",
+  "author": "Doreen Anum",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon .",
+    "command_prompt": "cmd start"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
